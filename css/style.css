@@ -1,0 +1,23 @@
+*{margin:0; padding:0;}
+body{
+    background:rgb(141, 241, 248);
+    height:100vh;
+}
+.phone{
+    width:541px;
+    height:989px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background: url(../img/iphone.png) no-repeat;
+}
+.contents{
+    width:414px;
+    height:736px;
+    background: #fff;
+    position:absolute;
+    top:126px;
+    left:64.3px;
+
+}
